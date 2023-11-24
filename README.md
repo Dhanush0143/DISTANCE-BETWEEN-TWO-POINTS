@@ -10,10 +10,25 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
-  
+```
+#Program to find the distance between two points.
+#Developed by: DHANUSH P
+#RegisterNumber:23001835
+import math
 
+x1=10
+x2=4
+y1=6
+y2=2
+d=math.sqrt(((x2-x1)**2+(y2-y1)**2))
+c=round(d,2)
+print(c)
+
+```
 
 ### OUTPUT:
+![image](https://github.com/Dhanush0143/DISTANCE-BETWEEN-TWO-POINTS/assets/139841924/ffb1b964-5faf-42b0-a208-1e50aaea6ac0)
 
 
 ### RESULT:
+![image](https://github.com/Dhanush0143/DISTANCE-BETWEEN-TWO-POINTS/assets/139841924/0b2e3e84-bed3-412a-9ef7-bb89030a047c)
